@@ -1,15 +1,15 @@
 # Processing
 
 ## ディレクトリの構造
-.
-├── .gitignore          # Gitで無視するファイルを指定
-├── .vscode/            # VSCodeの設定ファイルを格納
-│   └── tasks.json      # VSCodeでProcessingをビルド・実行するためのタスク設定
-├── out/                # ビルドの出力先（Git管理対象外）
-├── processing.pde      # メインのProcessingスケッチファイル
-├── README.md           # プロジェクトの説明書
-└── sketch/             # 作成したコードを保存するディレクトリ
-    └── assignment_1-1.pde
+.  
+├── .gitignore          # Gitで無視するファイルを指定  
+├── .vscode/            # VSCodeの設定ファイルを格納  
+│   └── tasks.json      # VSCodeでProcessingをビルド・実行するためのタスク設定  
+├── out/                # ビルドの出力先（Git管理対象外）  
+├── processing.pde      # メインのProcessingスケッチファイル  
+├── README.md           # プロジェクトの説明書  
+└── sketch/             # 作成したコードを保存するディレクトリ  
+    └── assignment_1-1.pde  
 
 
 ## 環境構築
